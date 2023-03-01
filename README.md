@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Onyedikachi Madubuike
 - 👀 I’m interested in soccer, badminton, basketball and fitness
-- 🌱 I’m currently learning  python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m grounded in Python, Java and C
 - 📫 How to reach me kachi.madubuike72@gmail.com
 
 <!---
