@@ -6,7 +6,7 @@ UPDATED: 18th April 2024
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/chidera) 
 
 - 🔭 I'm currently learning and building ERP and CRM software.
-- 🦾 I can use Java, C, Python
+- 🦾 Deep background in Java, C, Python
 - 🌌 Tech Stack:  SQL, 
 - 🌱 About to start reading "Atomic Habits" by James Clear. What's your favourite food?
 - 👯 I’m looking to do Game Development sometime later. 
