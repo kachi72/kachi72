@@ -11,7 +11,7 @@ UPDATED: 18th April 2024
 - 🌱 About to start reading "Atomic Habits" by James Clear. What's your favourite food?
 - 👯 I’m looking to do Game Development sometime later. 
 - ⚽️ Some other skills include football, badminton, table-tennis and gaming.
-- 📫 Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chideraike) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chidera_si) 
+- 📫 Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonmadubuike) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kachi_xo) 
 
 <div align="center">
 
