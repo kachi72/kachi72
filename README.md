@@ -5,9 +5,11 @@ UPDATED: 18th April 2024
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/chidera) 
 
-- 🔭 I'm currently learning Kotlin to be able to make cross-platform applications.
+- 🔭 I build android mobile applications and responsive backend APIs
+-  I'm currently learning Kotlin to be able to make cross-platform mobile applications.
 - 🦾 Deep background in Java, C, Python
-- 🌌 Tech Stack:  SQL, 
+- 🌌 Tech Stack:  SQL,
+- Web Framework: Django
 - 🌱 About to start reading "Atomic Habits" by James Clear. What's your favourite food?
 - 👯 I’m looking to do Game Development sometime later. 
 - ⚽️ Some other skills include football, badminton, table-tennis and gaming.
