@@ -8,9 +8,9 @@ UPDATED: 18th April 2024
 - 🔭 I build android mobile applications and responsive backend APIs
 -  I'm currently learning Kotlin to be able to make cross-platform mobile applications.
 - 🦾 Deep background in Java, C, Python
-- 🌌 Tech Stack:  SQL,
+- 🌌 Tech Stack:  MySQL, Postgres, SQLite
 - Web Framework: Django
-- 🌱 About to start reading "Atomic Habits" by James Clear. What's your favourite food?
+- 🌱 About to start reading "The Pragmatic Programmer" by Andrew Hunt & James Thomas. What's your favourite food?
 - 👯 I’m looking to do Game Development sometime later. 
 - ⚽️ Some other skills include football, badminton, table-tennis and gaming.
 - 📫 Contact me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nelsonmadubuike) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kachi_xo) 
