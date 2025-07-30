@@ -19,7 +19,7 @@ UPDATED: 18th April 2024
 
 [![Kachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachi72&show_icons=true&theme=radical)](https://github.com/kachi72/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachi72&layout=compact)](https://github.com/kachi72/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachi72&layout=donut)](https://github.com/kachi72/github-readme-stats)
 
 
 
