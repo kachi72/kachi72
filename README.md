@@ -7,7 +7,7 @@ UPDATED: 18th April 2024
 
 - 🔭 I build android mobile applications and responsive backend APIs
 -  I'm currently learning Kotlin to be able to make cross-platform mobile applications.
-- 🦾 Deep background in Java, C, Python
+- 🦾 Deep background in Java & Python
 - 🌌 Tech Stack:  MySQL, Postgres, SQLite
 - Web Framework: Django
 - 🌱 About to start reading "The Pragmatic Programmer" by Andrew Hunt & James Thomas. What's your favourite food?
